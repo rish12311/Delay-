@@ -85,9 +85,11 @@ The API will be available at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 **Response:**
 ```json
 {
-    "prediction": "Delayed"
+    "prediction": "On Time"
 }
 ```
+
+*random response, check with proper data according to dataset.
 
 ## Example Usage
 
