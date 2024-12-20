@@ -33,6 +33,7 @@ cd shipment-delay-prediction-api
 ```
 
 ### 2. Place the Model File
+Model file can be obtained by running the p1_mopel.py. It creates a pickle file called `shipment_delay_model.pkl`. 
 Ensure the `shipment_delay_model.pkl` file is in the same directory as `app.py`.
 
 ### 3. Run the Flask Application
